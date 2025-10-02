@@ -14,6 +14,8 @@ A collection of Excel-based data analytics projects.
 
 **Key:** Excel, Pivot Tables, Power Pivot, Charts, Dashboards.  
 [View project →](https://github.com/Opelobami/Metro-Bank-Analysis)
+
 ---
+
 
 ### Sales Performance Analysis
