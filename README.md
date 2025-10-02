@@ -14,8 +14,6 @@ _Exploratory analysis of customer behaviour, accounts, transactions, branch perf
 
 **Key:** Excel, Pivot Tables, Power Pivot, Charts, Dashboards.  
 [View project →](https://github.com/Opelobami/Metro-Bank-Analysis)
-
 ---
 
 ### Sales Performance Analysis
-(Repeat similar card for other repos)
